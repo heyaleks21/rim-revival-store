@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@hookform/resolvers": "latest",
+    "@radix-ui/react-dialog": "latest",
+    "@supabase/supabase-js": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "bcryptjs": "latest",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "date-fns": "latest",
+    "lucide-react": "^0.454.0",
+    "next": "15.2.4",
+    "react": "^19",
+    "react-dom": "^19",
+    "react-hook-form": "latest",
+    "recharts": "latest",
+    "resend": "latest",
+    "tailwind-merge": "^2.5.5",
+    "tailwindcss-animate": "^1.0.7",
+    "uuid": "^9.0.1",
+    "zod": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "postcss": "^8.5",
+    "typescript": "^5"
+  }
+}
